@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "react-native-sortable-list",
+        "License": "MIT License",
+        "License File": "https://github.com/gitim/react-native-sortable-list/blob/master/LICENSE",
+        "Version Number": "0.0.25",
+        "Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/gitim/react-native-sortable-list",
+        "Description": "sortable-list library for react-native"
+    }
+]
